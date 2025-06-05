@@ -1,4 +1,4 @@
-![Card](banner.png)
+![Card](github.png)
 
 # ***"The more I study, the more insatiable do I feel my genius for it to be."***
 <div align="right">~ Ada Lovelace</div>
