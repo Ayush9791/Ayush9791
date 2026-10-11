@@ -10,7 +10,7 @@
   <a href="https://www.linkedin.com/in/ayush-deep979/"><img src="https://img.shields.io/badge/LINKEDIN-CONNECT-90caf9?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=263238" alt="LinkedIn" /></a>
 </p>
 
-**[ OVERWORLD ]** Developer &nbsp; **[ BIOME ]** New Delhi, India &nbsp; **[ GUILD ]** CodeFlow
+**[ OVERWORLD ]** Developer &nbsp; **[ BIOME ]** New Delhi, India &nbsp; **[ FORMER FOUNDER ]** CodeFlow
 
 </div>
 
@@ -25,7 +25,7 @@
 | Name: Ayush Deep | Build practical full-stack applications |
 | Class: Developer | Explore AI / ML and computer vision |
 | Base: New Delhi, India | Ship projects and learn by building |
-| Guild: [CodeFlow](https://codeflow.shop) | Open to internships and collaborations |
+| Former role: Founder of CodeFlow | Open to internships and collaborations |
 
 ---
 
@@ -85,13 +85,9 @@
 
 ---
 
-## 🏰 CODEFLOW GUILD
+## 🏰 CODEFLOW: PAST PROJECT
 
-Building websites and digital tools with a small team, with an emphasis on thoughtful design and practical delivery.
-
-<p align="center">
-  <a href="https://codeflow.shop"><img src="https://img.shields.io/badge/ENTER%20CODEFLOW-CODEFLOW.SHOP-9fe870?style=for-the-badge&labelColor=263b22" alt="CodeFlow" /></a>
-</p>
+I founded CodeFlow, a freelance development team focused on websites and digital tools. **CodeFlow is now closed**, so this is part of my past experience, not an active business.
 
 ---
 
