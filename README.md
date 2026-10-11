@@ -1,16 +1,18 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:3e2723,45:4e342e,100:263b22&height=190&section=header&text=AYUSH%20DEEP&fontSize=52&fontColor=ffdf65&fontAlignY=40&desc=%5B%20DEVELOPER%20%2F%20BUILDER%20%2F%20AI%20%26%20ML%20%5D&descSize=15&descColor=9fe870&descAlignY=68" />
+# ⛏️ AYUSH DEEP
 
-<img src="https://readme-typing-svg.demolab.com?font=VT323&weight=400&size=26&pause=1400&color=9FE870&center=true&vCenter=true&width=600&lines=PLAYER+ONE%3A+AYUSH+DEEP;Building+worlds%2C+one+project+at+a+time.;Currently+questing+in+Web+Dev+%26+AI%2FML." alt="Typing intro" />
+**DEVELOPER · BUILDER · AI / ML**
+
+*Building worlds, one project at a time.*
 
 <p>
-  <a href="https://ayushdeep.space"><img src="https://img.shields.io/badge/OPEN%20PORTFOLIO-AYUSHDEEP.SPACE-ffdf65?style=for-the-badge&labelColor=3e2723" alt="Portfolio" /></a>
-  <a href="https://github.com/Ayush9791"><img src="https://img.shields.io/badge/GITHUB-VIEW%20PROFILE-9fe870?style=for-the-badge&logo=github&logoColor=white&labelColor=263238" alt="GitHub" /></a>
+  <a href="https://ayushdeep.space"><img src="https://img.shields.io/badge/OPEN%20PORTFOLIO-AYUSHDEEP.SPACE-ffdf65?style=for-the-badge&labelColor=3e2723" alt="Open portfolio" /></a>
+  <a href="https://github.com/Ayush9791"><img src="https://img.shields.io/badge/GITHUB-VIEW%20PROFILE-9fe870?style=for-the-badge&logo=github&logoColor=white&labelColor=263238" alt="GitHub profile" /></a>
   <a href="https://www.linkedin.com/in/ayush-deep979/"><img src="https://img.shields.io/badge/LINKEDIN-CONNECT-90caf9?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=263238" alt="LinkedIn" /></a>
 </p>
 
-**[ OVERWORLD ]** Developer &nbsp; **[ BIOME ]** New Delhi, India &nbsp; **[ FORMER FOUNDER ]** CodeFlow
+**PLAYER CLASS:** Developer &nbsp; **SPAWN POINT:** New Delhi, India &nbsp; **PAST QUEST:** Founded CodeFlow (now closed)
 
 </div>
 
@@ -85,7 +87,7 @@
 
 ---
 
-## 🏰 CODEFLOW: PAST PROJECT
+## 🏰 CODEFLOW: COMPLETED CHAPTER
 
 I founded CodeFlow, a freelance development team focused on websites and digital tools. **CodeFlow is now closed**, so this is part of my past experience, not an active business.
 
